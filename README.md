@@ -47,7 +47,7 @@ The system is designed to eliminate the need for users to scroll through thousan
 11. Review font library & your preferences.
 12. Provide feedback on fonts to improve the recommendation system.
 
-## As a complementary element to technial implentation, User Interface was designer in Figma. 
+## As a complementary element to technical implentation, User Interface was designer in Figma. 
 Here is the link: 
 
 ## Project Structure
