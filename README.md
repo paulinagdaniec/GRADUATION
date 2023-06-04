@@ -1,5 +1,5 @@
 # MyType Font Recommendation System
-A content-based recommender system created as means to help answer the following research question: _"How can recommender systems assist aspiring designers in collection, management and selection of fonts that evoke desired feel?"_
+A content-based recommender system created as means to help answer the following research question: _"How can recommender system assist aspiring designers in collection, management and selection of fonts that evoke desired feel?"_
 
 
 ## Overview
