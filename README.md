@@ -1,19 +1,16 @@
-# GRADUATION
-MyType, a feel-based font recommender system. 
-
-
-For the recommender prototypes to work, a folder called "collectedttf" is needed. The folder contains .ttf files of all Google Fonts and allows the font display. 
-The folder even when compressed is still too big (973 MB) to upload on GitHub. If you would like to test the prototype yourself feel free to send me an email regarding the .ttf files.
-
 # MyType Font Recommendation System
+A content-based recommender system.
+
 
 ## Overview
 This repository contains the code technical implementation of MyType, a font recommendation system developed for a Graduation Project 
 as a part of Data-Driven Design Master Program at Hu University of Applied Sciences Utrecht.
 
+
 ## Description
 MyType is a data-driven font recommendation system that helps users find and manage fonts that support the message and feel they want to convey in their design. 
 The system is designed to eliminate the need for users to scroll through thousands of fonts to find the right one.
+
 
 ## Features
 - User-friendly interface
@@ -33,6 +30,7 @@ The system is designed to eliminate the need for users to scroll through thousan
 - JSON
 - CSV
 
+
 ## Setup and Usage
 1. Clone the repository.
 2. Contact me regarding Google font files or aquire them from Google API.
@@ -47,8 +45,10 @@ The system is designed to eliminate the need for users to scroll through thousan
 11. Review font library & your preferences.
 12. Provide feedback on fonts to improve the recommendation system.
 
+
 ## As a complementary element to technical implentation, User Interface was designer in Figma. 
 Here is the link: 
+
 
 ## Project Structure
 - `iteration3.py`: Fianl Python script for the Streamlit Dashboard.
@@ -56,10 +56,13 @@ Here is the link:
 - `mytypelogo.png`, `sans-serif.png`, `display.png`, `serif.png`, `handwriting.png`, `monospace.png`: Image files used for visual elements.
 - `avfonts_full9.csv`: CSV file containing font data.
 
-## This work is a continuation of a font recommender system created for State of the Art Technology. 
-If you wish to review previous version you can find the the repositiory on my profile. 
 
-### If you have any questions or remarks feel free to send me an email. 
+## This work is a continuation of a font recommender system created for State of the Art Technology. 
+ You can find the previous version of this project in [this repository](https://github.com/paulinagdaniec/font-recommender-system).
+
+
+
+## If you have any questions or remarks feel free to send me an email. 
 
 
 Paulina Maria Gdaniec 
